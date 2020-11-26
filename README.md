@@ -1,4 +1,6 @@
-tetris
-======
+# Tetris
+Ceci est une version modifié (surtout simplifié) du Tetris disponible ici: http://htmltetris.com/.
+## Voir plus
+Voir nos autres projets open-source: https://artivain.github.io
 
-Here is a mirror of my tetris game, hosted at htmltetris.com
+Voir tous nos projets et plus: https://artivain.tk
